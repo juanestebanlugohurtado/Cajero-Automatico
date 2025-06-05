@@ -1,0 +1,31 @@
+Bibliotecas proyecto final 
+
+import java.util.Scanner;
+Permite leer datos que el usuario escribe en la consola (nombre, cédula, PIN, montos).
+
+import java.util.List;
+Permite declarar listas de objetos (por ejemplo, el historial de transacciones de cada usuario).
+
+import java.util.ArrayList;
+Implementa la lista dinámica donde se guardan las transacciones de cada usuario.
+
+import java.io.Serializable;
+Permite que los objetos de las clases puedan guardarse y leerse desde archivos (persistencia).
+
+import java.io.ObjectOutputStream;
+Permite escribir (guardar) un objeto completo en un archivo.
+
+import java.io.ObjectInputStream;
+Permite leer (recuperar) un objeto completo desde un archivo.
+
+import java.io.FileOutputStream;
+Permite abrir un archivo para guardar datos.
+
+import java.io.FileInputStream;
+Permite abrir un archivo para leer datos.
+
+import java.io.IOException;
+Permite manejar errores que pueden ocurrir al trabajar con archivos.
+
+import java.time.LocalDateTime;
+Permite registrar la fecha y la hora exacta de cada transacción.
